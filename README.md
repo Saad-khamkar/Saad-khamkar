@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Saad-khamkar
+- 😎 I'm from Computer department.
 - 👀 I’m interested in software development. 
 - 🌱 I’m currently learning c++ & java. 
