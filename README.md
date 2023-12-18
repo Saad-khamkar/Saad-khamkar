@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Saad-khamkar
+- 👀 I’m interested in software development. 
+- 🌱 I’m currently learning c++ & java. 
