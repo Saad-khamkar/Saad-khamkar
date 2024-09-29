@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Saad-khamkar
-- 😎 I'm from Computer department.
+- 😎 Pursuing Diploma in Computer Engg.'
+- 👀 Good imagination for UI/UX designing.
 - 👀 I’m interested in software development. 
-- 🌱 I’m currently learning c++ & java. 
+- 🌱 I’m currently learning java & Python.
