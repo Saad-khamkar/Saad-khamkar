@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saad-khamkar
-- 😎 Pursuing Diploma in Computer Engg.'
+- 😎 Compeleted Diploma in Computer Engg.'
 - 👀 Good imagination for UI/UX designing.
 - 👀 I’m interested in software development. 
 - 🌱 I’m currently learning java & Python.
